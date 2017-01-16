@@ -13,11 +13,10 @@ body{
 }
 
 .navbar-default .navbar-nav>li>a {
-  font-size: 36px;
+  font-size: 30px;
   color: #590eba;
   padding-top: 20px;
   background-size: cover;
-  background-color: black;
   text-align: center;
 
 }
@@ -36,7 +35,7 @@ h6{
 h7{
 text-align: center;
   color:gray;
-  font-size: 40px;
+  font-size: 30px;
 
 
 }
